@@ -3,6 +3,7 @@ const assets = [
   "/",
   "/index.html",
   "assets/css/styles.css",
+  "assets/css/swiper-bundle.min.css"
   "assets/js/main.js",
   "assets/js/mixitup.min.js",
   "assets/js/scrollreveal.min.js",
