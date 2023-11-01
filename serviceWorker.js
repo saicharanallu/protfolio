@@ -2,10 +2,11 @@ const protifolio = "protifolio"
 const assets = [
   "/",
   "/index.html",
-  "assets/js/main.js"
-  "assets/js/mixitup.min.js"
-  "assets/js/scrollreveal.min.js"
-  "assets/js/swiper-bundle.min.js"
+  "assets/css/styles.css",
+  "assets/js/main.js",
+  "assets/js/mixitup.min.js",
+  "assets/js/scrollreveal.min.js",
+  "assets/js/swiper-bundle.min.js",
   "assets/img/Chaitanya.png",
   "assets/img/Electric Vechiles and Mobility.png",
   "assets/img/Green Energy.jpg",
