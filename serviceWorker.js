@@ -16,6 +16,7 @@ const assets = [
   "assets/img/location.png",
   "assets/img/profile.jpg",
   "assets/img/our Energy Future.png",
+  "assets/pdf"
 ]
 
 self.addEventListener("install", installEvent => {
