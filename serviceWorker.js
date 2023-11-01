@@ -3,6 +3,7 @@ const assets = [
   "/",
   "/index.html",
   "assets/js/main.js"
+  "assets/js/mixitup.min.js"
   "assets/img/Chaitanya.png",
   "assets/img/Electric Vechiles and Mobility.png",
   "assets/img/Green Energy.jpg",
