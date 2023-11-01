@@ -8,11 +8,11 @@ const assets = [
   "assets/img/Electric Vechiles and Mobility.png",
   "assets/img/Green Energy.jpg",
   "assets/img/Hackerrank.png",
-  "assets/img/sasi.png",
+  "assets/img/Sasi.png",
   "assets/img/gmrit.png",
   "assets/img/location.png",
-  "assets/img/Chaitanya.png",
-  "assets/img/Chaitanya.png",
+  "assets/img/profile.png",
+  "assets/img/our Energy Future.png",
 ]
 
 self.addEventListener("install", installEvent => {
