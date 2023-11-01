@@ -2,7 +2,6 @@ const protifolio = "protifolio"
 const assets = [
   "/",
   "/index.html",
-  "/css/style.css",
   "/js/app.js",
   "assets/img/Chaitanya.png",
   "assets/img/Electric Vechiles and Mobility.png",
