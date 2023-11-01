@@ -5,7 +5,7 @@ const assets = [
   "/css/style.css",
   "/js/app.js",
   "assets/img/Chaitanya.png",
-  "assets/img/Chaitanya.png",
+  "assets/img/Electric Vechiles and Mobility.png",
   "assets/img/Chaitanya.png",
   "assets/img/Chaitanya.png",
   "assets/img/Chaitanya.png",
