@@ -3,7 +3,7 @@ const assets = [
   "/",
   "/index.html",
   "assets/css/styles.css",
-  "assets/css/swiper-bundle.min.css"
+  "assets/css/swiper-bundle.min.css",
   "assets/js/main.js",
   "assets/js/mixitup.min.js",
   "assets/js/scrollreveal.min.js",
@@ -17,7 +17,7 @@ const assets = [
   "assets/img/location.png",
   "assets/img/profile.jpg",
   "assets/img/our Energy Future.png",
-  "assets/pdf"
+  "assets/pdf",
 ]
 
 self.addEventListener("install", installEvent => {
